@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions and support:
 - Create an issue in the GitHub repository
-- Email: [your-email@example.com]
+- Email: [amr.emad.ezzat@gmail.com]
 
 ---
 *Note: Replace placeholder content (email, images) with your actual content before publishing.*
