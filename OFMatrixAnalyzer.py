@@ -47,6 +47,7 @@ import os
 import argparse
 import logging
 import re
+import textwrap
 
 # Configure logging with timestamp and severity level
 logging.basicConfig(level=logging.INFO,
